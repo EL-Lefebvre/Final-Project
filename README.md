@@ -1,13 +1,13 @@
 # Final-Project
 
-#Requirements
-##BACK END
+# Requirements
+## BACK END
 - Fetch all drinks
 - GET drinks by type of alcohol
 - GET Store users' favorites recipe so they can access to it later
 - POST for users to post their own recipe into the blog section 
 
-##FRONT END
+## FRONT END
 - Display all drinks recipes
 - Display drinks by categories
 - Search Bar to search specific drinks
@@ -15,6 +15,6 @@
 - 101 how to make cocktails section
 - Blog section: Users can post their own recipe in a blog section
 
-STRETCH
+## STRETCH
 - Google sign-in so users can access back their data
 - animation for smooth transition
