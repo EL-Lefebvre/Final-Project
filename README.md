@@ -5,6 +5,7 @@
 - Fetch all drinks
 - GET drinks by type of alcohol
 - GET drinks by name
+- GET popular drinks
 - GET Store users' favorites recipe so they can access to it later
 - POST for users to post their own recipe into the blog section 
 
