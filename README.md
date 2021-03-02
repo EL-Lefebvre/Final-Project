@@ -26,3 +26,4 @@
 - Google sign-in so users can access back their data
 - animation for smooth transition
 
+Target users: People over 18 who want to learn how to make different cocktails and post their creations
